@@ -8,4 +8,4 @@ For this project, we will be cleaning and exploring the data set in Jupyter note
 - Are there any differences in rankings and the size of the audience across genders?
 - How does an average fan of the Star Wars series look like (in terms of his/her gender, age, education level and household income)? 
 
-<a href='https://nbviewer.jupyter.org/github/ruslan-kononov/Guided-Project-Exploring-Star-Wars-fan-survey/blob/master/Analyzing%20Star%20Wars%20Survey.ipynb">Click here to view the jupyter notebook file</a>
+<a href="https://nbviewer.jupyter.org/github/ruslan-kononov/Guided-Project-Exploring-Star-Wars-fan-survey/blob/master/Analyzing%20Star%20Wars%20Survey.ipynb">Click here to view the jupyter notebook file</a>
